@@ -1,0 +1,8 @@
+/Volumes/Development/DeviceLocation/Classes/MyDLocationDelegate.m:9:24: error: MyDLocation.h: No such file or directory
+/Volumes/Development/DeviceLocation/Classes/MyDLocationDelegate.m:14: warning: cannot find interface declaration for 'MyDLocation'
+/Volumes/Development/DeviceLocation/Classes/MyDLocationDelegate.m:14: error: no declaration of property 'delegate' found in the interface
+/Volumes/Development/DeviceLocation/Classes/MyDLocationDelegate.m:14: error: no declaration of property 'locationManager' found in the interface
+/Volumes/Development/DeviceLocation/Classes/MyDLocationDelegate.m: In function '-[MyDLocation init]':
+/Volumes/Development/DeviceLocation/Classes/MyDLocationDelegate.m:17: error: no super class declared in @interface for 'MyDLocation'
+/Volumes/Development/DeviceLocation/Classes/MyDLocationDelegate.m:19: error: request for member 'locationManager' in something not a structure or union
+/Volumes/Development/DeviceLocation/Classes/MyDLocationDelegate.m:20: error: request for member 'locationManager' in something not a structure or union
